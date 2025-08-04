@@ -1,7 +1,7 @@
 import React from "react";
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter as Router,Routes,Route} from 'react-router-dom'
-import Bookmark from "./components/BookMark";
+import Bookmark from "./components/Bookmark";
 import Watched from "./components/Watched";
 import About from "./components/About";
 import Home from "./components/Home";
