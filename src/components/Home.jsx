@@ -13,7 +13,7 @@ const Home = () => {
   const [watched, setWatched] = useState(() => JSON.parse(localStorage.getItem('watched')) || []);
   
 
-  const API_KEY = 'AIzaSyDXVIRnbh4bmJlEPFWAD95yYs5MzPhoMYE';
+  const API_KEY = 'AIzaSyBkJ9KJ4RZIRzeHVxvoR65Ta5fQ-ptqBJ8';
 
   const categories = ['All', 'HTML', 'CSS', 'JavaScript', 'React', 'Python', 'Tamil Tutorials'];
 
